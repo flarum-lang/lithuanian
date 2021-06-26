@@ -5,7 +5,7 @@
 core:
   admin:
     appearance:
-      colored_header_label: 'Colored Header'
+      colored_header_label: 'Spalvota antraštė'
       colors_heading: Colors
       colors_text: 'Choose two colors to theme your forum with. The first will be used as a highlight color, while the second will be used to style background elements.'
       custom_footer_heading: 'Custom Footer'
@@ -98,6 +98,7 @@ core:
       submit_button: '=> core.ref.save_changes'
       title: '=> core.ref.email'
     extension:
+      configure_scopes: 'Konfigūravimo sritys'
       confirm_uninstall: 'Uninstalling will remove all database entries and assets related to the extension. Are you sure you want to continue?'
       disabled: Disabled
       enable_to_see: 'Enable the extension to view and change settings.'
@@ -152,6 +153,8 @@ core:
       delete_posts_label: 'Delete posts'
       description: 'Configure who can see and do what.'
       edit_posts_label: 'Edit posts'
+      edit_users_credentials_label: 'Redaguoti vartotojo kredencialus'
+      edit_users_groups_label: 'Redaguoti vartotojų grupes'
       edit_users_label: 'Edit users'
       global_heading: 'Edit users'
       moderate_heading: Moderate
@@ -161,6 +164,7 @@ core:
       read_heading: Read
       rename_discussions_label: 'Rename discussions'
       reply_to_discussions_label: 'Reply to discussions'
+      search_users_label: 'Ieškoti vartotojų'
       sign_up_label: 'Sign up'
       start_discussions_label: 'Start discussions'
       title: Permissions
