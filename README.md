@@ -6,15 +6,15 @@ Extension to translate your [Flarum](https://flarum.org/) forum and its extensio
 Use following commands via Composer in root directory of your Flarum.
 Istall:
 ```text
-composer require f0rtem/flarum-ext-lt
+composer require flarum-lang/lithuanian
 ```
 Updating:
 ```text
-composer update f0rtem/flarum-ext-lt
+composer update flarum-lang/lithuanian
 ```
 Uninstall:
 ```text
-composer remove f0rtem/flarum-ext-lt
+composer remove flarum-lang/lithuanian
 ```
 After every command follow up with:
 ```text
