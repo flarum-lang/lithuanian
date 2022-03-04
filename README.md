@@ -1,5 +1,7 @@
-# Lithuanian Language extension pack for [Flarum](https://flarum.org/)
+# Lithuanian Language extension pack for [Flarum](https://flarum.org/) <img src="https://github.com/flarum-lang/lithuanian/blob/main/icon.svg" width="50" alt="Lietuva"> 
 Extension to translate your [Flarum](https://flarum.org/) forum and its extensions to Lithuanian language. For issues and reporting bugs, please use [GitHub Issues](https://github.com/f0rtem/flarum-ext-lt/issues) tracker.
+
+
 
 
 ### Installation
