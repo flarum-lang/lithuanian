@@ -5,7 +5,7 @@
 flarum-lock:
   admin:
     permissions:
-      lock_discussions_label: 'Lock discussions'
+      lock_discussions_label: 'Užrakinti diskusijas'
   forum:
     badge:
       locked_tooltip: Užrakinta
