@@ -29,12 +29,12 @@ Also, don't forget to clear your browser cache with CTRL + F5
 
 
 ### Translated 100%:
-Core 100%
-acpl-lscache 100%
-acpl-mobile-tab 100%
-acpl-my-tags 100%
-afrux-asirem 100%
-afrux-forum-stats-widget 100%
+Core 100%<br>
+acpl-lscache 100%<br>
+acpl-mobile-tab 100%<br>
+acpl-my-tags 100%<br>
+afrux-asirem 100%<br>
+afrux-forum-stats-widget 100%<br>
 afrux-forum-widgets-core 100%
 afrux-news-widget 100%
 afrux-online-users-widget 100%
