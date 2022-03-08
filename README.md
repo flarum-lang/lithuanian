@@ -32,7 +32,7 @@ Also, don't forget to clear your browser cache with CTRL + F5
 
 #### Flarum
 
-| Component | Status |
+| Component/Komponentas | Status/Būsena |
 | --- | --- |
 | [`core`](https://github.com/flarum/core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lt/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/lt/) |
 | `validation` | [![Translation status](https://weblate.rob006.net/widgets/flarum/lt/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/lt/) |
@@ -41,7 +41,7 @@ Also, don't forget to clear your browser cache with CTRL + F5
 
 <!-- all-extensions-list-start -->
 
-| Extension | Status |
+| Extension/Plėtinys | Status/Būsena |
 | --- | --- |
 | [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lt/acpl-lscache/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/acpl-lscache/lt/) |
 | [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lt/acpl-mobile-tab/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/acpl-mobile-tab/lt/) |
