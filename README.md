@@ -5,7 +5,7 @@ Extension to translate your [Flarum](https://flarum.org/) forum and its extensio
 
 
 
-### Installation
+## 📥 Installation
 Use following commands via Composer in root directory of your Flarum.
 Istall:
 ```text
@@ -28,7 +28,7 @@ Also, don't forget to clear your browser cache with CTRL + F5
 
 
 
-### Translated:
+### 🚩 Translated:
 
 #### Flarum
 
