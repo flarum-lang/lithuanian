@@ -4,6 +4,9 @@
 
 v17development-flarum-badges:
   admin:
+    auto_moderator:
+      action_drivers:
+        give_badge: 'Suteikti ženklelį'
     confirm_dialog:
       'no': Ne
       title: Patvirtinti
@@ -24,3 +27,8 @@ v17development-flarum-badges:
       badge: Ženkliukas
       badges: Ženkliukai
       name: 'Ženklelio pavadinimas'
+    give_badge: 'Suteikti ženklelį'
+    moderation:
+      give_badge: 'Suteikti ženklelį'
+    notification:
+      settings: 'Gavau ženklelį'
