@@ -470,6 +470,7 @@ core:
       username_label: '=> core.ref.username'
     error:
       dependent_extensions_message: 'Įskiepio {extension} išjungimas yra negalimas kol įskiepiai yra išjungti: {extensions}'
+      extension_initialiation_failed_message: 'Nepavyko inicijuoti {extension}. Daugiau informacijos ieškokite naršyklės konsolėje.'
       generic_message: 'Oops! Kažkas įvyko ne taip. Perkraukite puslapį iš naujo ir bandykite dar kartą.'
       missing_dependencies_message: 'Įskiepio {extension} įjungimas yra negalimas kol įskiepiai yra įjungti: {extensions}'
       not_found_message: 'Prašomas šaltinis nerastas.'

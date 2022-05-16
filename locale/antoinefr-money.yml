@@ -4,6 +4,9 @@
 
 antoinefr-money:
   admin:
+    automoderator:
+      action_name: 'Duoti pinigų'
+      metric_name: Pinigai
     permissions:
       edit_money_label: 'Redaguoti pinigus'
     settings:
