@@ -4,13 +4,6 @@
     "type": "flarum-extension",
     "keywords": ["extension", "flarum", "lithuanian", "locale", "translation"],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Kropto",
-            "email": "mail@mail.com",
-            "homepage": "https://github.com/flarum-lang/lithuanian"
-        }
-    ],
     "support": {
         "issues": "https://github.com/flarum-lang/lithuanian/issues",
         "source": "https://github.com/flarum-lang/lithuanian"
