@@ -1,15 +1,21 @@
+> **This language pack is searching for a maintainer!**
+>
+> This language pack is maintained by the community. Anyone can translate through [Weblate](https://weblate.rob006.net/languages/lt/flarum/) and no one verifies contributed translations. If you want to help maintain this package, you can contact us in [this discussion](https://discuss.flarum.org/d/27519-the-flarum-language-project).
+
+
 # Lithuanian Language extension pack for [Flarum](https://flarum.org/) <img src="https://github.com/flarum-lang/lithuanian/blob/main/icon.svg" width="50" alt="Lietuva"> 
+
 Extension to translate your [Flarum](https://flarum.org/) forum and its extensions to Lithuanian language. For issues and reporting bugs, please use [GitHub Issues](https://github.com/flarum-lang/lithuanian/issues) tracker.
 
 [You can follow the translation progress here](https://weblate.rob006.net/languages/lt/flarum/)
 
 
-
 ## 📥 Installation
+
 Use following commands via Composer in root directory of your Flarum.
 Istall:
 ```text
-composer require flarum-lang/lithuanian
+composer require flarum-lang/lithuanian:dev-main
 ```
 Updating:
 ```text
@@ -34,7 +40,7 @@ Also, don't forget to clear your browser cache with CTRL + F5
 
 | Component/Komponentas | Status/Būsena |
 | --- | --- |
-| [`core`](https://github.com/flarum/core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lt/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/lt/) |
+| [`core`](https://github.com/flarum/flarum-core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lt/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/lt/) |
 | `validation` | [![Translation status](https://weblate.rob006.net/widgets/flarum/lt/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/lt/) |
 
 #### Extensions
