@@ -15,7 +15,7 @@ CHANGELOG
 * [`askvortsov/flarum-rich-text`](https://github.com/askvortsov1/flarum-rich-text)
 * [`askvortsov/flarum-saml`](https://github.com/askvortsov1/flarum-saml)
 * [`blomstra/flag-duplicates`](https://github.com/blomstra/flarum-ext-flag-duplicate)
-* [`blomstra/payments`](https://extiverse.com/extension/blomstra/payments)
+* [`blomstra/payments`](https://flarum.org/extension/blomstra/payments)
 * [`blomstra/user-filter`](https://github.com/blomstra/flarum-ext-user-filter)
 * [`blomstra/welcome-login`](https://github.com/blomstra/flarum-ext-welcome-login)
 * [`clarkwinkelmann/flarum-ext-author-change`](https://github.com/clarkwinkelmann/flarum-ext-author-change)
