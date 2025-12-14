@@ -2,7 +2,7 @@ CHANGELOG
 =========
 
 
-1.2.0 (XXXX-XX-XX)
+1.1.6 (XXXX-XX-XX)
 ------------------
 
 **General changes**:
@@ -39,6 +39,6 @@ CHANGELOG
 * [`flarum/likes`](https://github.com/flarum/likes)
 
 
-All changes: [1.1.5...1.2.0](https://github.com/flarum-lang/lithuanian/compare/1.1.5...1.2.0).
+All changes: [1.1.5...1.1.6](https://github.com/flarum-lang/lithuanian/compare/1.1.5...1.1.6).
 
 
