@@ -31,6 +31,7 @@ CHANGELOG
 * [`davwheat/flarum-ext-ads`](https://github.com/davwheat/flarum-ext-ads)
 * [`fof/discussion-templates`](https://github.com/FriendsOfFlarum/discussion-templates)
 * [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings)
+* [`glowingblue/author-filter`](https://github.com/glowingblue/flarum-ext-author-filter)
 * [`gtdxyz/flarum-ext-badges`](https://github.com/daocatt/flarum-ext-badges)
 * [`webbinaro/flarum-affiliator`](https://github.com/eddiewebb/flarum-affiliator)
 
