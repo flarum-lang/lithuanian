@@ -9,7 +9,7 @@
         "source": "https://github.com/flarum-lang/lithuanian"
     },
     "require": {
-        "flarum/core": "^1.0.0"
+        "flarum/core": "^2.0"
     },
     "extra": {
         "branch-alias": {
