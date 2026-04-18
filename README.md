@@ -15,7 +15,7 @@ Extension to translate your [Flarum](https://flarum.org/) forum and its extensio
 Use following commands via Composer in root directory of your Flarum.
 Istall:
 ```text
-composer require flarum-lang/lithuanian:dev-main
+composer require "flarum-lang/lithuanian:@dev"
 ```
 Updating:
 ```text
