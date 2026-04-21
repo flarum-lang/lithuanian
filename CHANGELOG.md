@@ -77,7 +77,7 @@ CHANGELOG
 * `glowingblue-localizd`
 * [`nearata/flarum-ext-signup-confirm-password`](https://github.com/Nearata/flarum-ext-signup-confirm-password)
 * [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog)
-* [`v17development/flarum-seo`](https://github.com/v17development/flarum-seo)
+* [`v17development/flarum-seo`](https://github.com/FriendsOfFlarum/flarum-seo)
 * [`v17development/flarum-user-badges`](https://github.com/v17development/flarum-user-badges)
 
 
