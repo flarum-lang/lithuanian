@@ -1,13 +1,13 @@
 > **This language pack is searching for a maintainer!**
 >
-> This language pack is maintained by the community. Anyone can translate through [Weblate](https://weblate.rob006.net/languages/lt/flarum/) and no one verifies contributed translations. If you want to help maintain this package, you can contact us in [this discussion](https://discuss.flarum.org/d/27519-the-flarum-language-project).
+> This language pack is maintained by the community. Anyone can translate through [Weblate](https://weblate.rob006.net/languages/lt/flarum2/) and no one verifies contributed translations. If you want to help maintain this package, you can contact us in [this discussion](https://discuss.flarum.org/d/27519-the-flarum-language-project).
 
 
 # Lithuanian Language extension pack for [Flarum](https://flarum.org/) <img src="https://github.com/flarum-lang/lithuanian/blob/main/icon.svg" width="50" alt="Lietuva"> 
 
 Extension to translate your [Flarum](https://flarum.org/) forum and its extensions to Lithuanian language. For issues and reporting bugs, please use [GitHub Issues](https://github.com/flarum-lang/lithuanian/issues) tracker.
 
-[You can follow the translation progress here](https://weblate.rob006.net/languages/lt/flarum/)
+[You can follow the translation progress here](https://weblate.rob006.net/languages/lt/flarum2/)
 
 
 ## 📥 Installation
