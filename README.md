@@ -106,7 +106,7 @@ Also, don't forget to clear your browser cache with CTRL + F5
 | [`gtdxyz/flarum-ext-badges`](https://github.com/daocatt/flarum-ext-badges) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lt/gtdxyz-badges/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/gtdxyz-badges/lt/) |
 | [`nearata/flarum-ext-signup-confirm-password`](https://github.com/Nearata/flarum-ext-signup-confirm-password) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lt/nearata-signup-confirm-password/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/nearata-signup-confirm-password/lt/) |
 | [`sycho/flarum-profile-cover`](https://github.com/SychO9/flarum-profile-cover) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lt/sycho-profile-cover/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/sycho-profile-cover/lt/) |
-| [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lt/v17development-blog/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-blog/lt/) |
+| [`v17development/flarum-blog`](https://github.com/FriendsOfFlarum/blog) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lt/v17development-blog/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-blog/lt/) |
 | [`webbinaro/flarum-affiliator`](https://github.com/eddiewebb/flarum-affiliator) | [![Translation status](https://weblate.rob006.net/widgets/flarum/lt/webbinaro-affiliator/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/webbinaro-affiliator/lt/) |
 
 <!-- all-extensions-list-stop -->
