@@ -7,11 +7,14 @@ core:
     appearance:
       colored_header_label: 'Spalvota antraštė'
       colors_heading: Spalvos
+      colors_primary_label: 'Pirminė spalva'
+      colors_secondary_label: 'Antrinė spalva'
       colors_text: 'Pasirinkite dvi spalvas savo forumo tematikai. Pirmoji bus naudojama kaip paryškinimo spalva, o antroji – fono elementams formuoti.'
       custom_footer_heading: 'Pasirinktinis footer'
       custom_footer_text: '=> core.ref.custom_footer_text'
       custom_header_heading: 'Pasirinktitins Header'
       custom_header_text: '=> core.ref.custom_header_text'
+      custom_styles_cannot_use_less_features: 'Funkcijos „@import“ ir „data-uri“ neleidžiamos pasirinktiniame LESS.'
       custom_styles_heading: 'Pasirinktinis stilius'
       custom_styles_text: 'Tinkinkite savo forumo išvaizdą pridėdami savo LESS/CSS kodą, kuris bus pritaikytas prie numatytųjų Flarum stilių.'
       description: 'Tinkinkite savo forumo spalvas, logotipus ir kitus kintamuosius.'
@@ -25,6 +28,7 @@ core:
       logo_text: 'Įkelkite vaizdą, kuris bus rodomas vietoje forumo pavadinimo.'
       title: Išvaizda
     basics:
+      abandoned_extensions_heading: 'Apleisti plėtiniai'
       all_discussions_label: '=> core.ref.all_discussions'
       default_language_heading: 'Numatytoji kalba'
       description: 'Nustatykite forumo pavadinimą, kalbą ir kitus pagrindinius nustatymus.'
