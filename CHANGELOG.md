@@ -13,6 +13,7 @@ CHANGELOG
 
 **Added support for new extensions**:
 
+* [`flarum/bbcode`](https://github.com/flarum/bbcode)
 * [`fof/discussion-templates`](https://github.com/FriendsOfFlarum/discussion-templates)
 * [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings)
 
