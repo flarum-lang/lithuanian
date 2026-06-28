@@ -29,6 +29,7 @@ CHANGELOG
 * [`clarkwinkelmann/flarum-ext-email-whitelist`](https://github.com/clarkwinkelmann/flarum-ext-email-whitelist)
 * [`clarkwinkelmann/flarum-ext-group-invitation`](https://github.com/clarkwinkelmann/flarum-ext-group-invitation)
 * [`davwheat/flarum-ext-ads`](https://github.com/davwheat/flarum-ext-ads)
+* [`flarum/bbcode`](https://github.com/flarum/bbcode)
 * [`fof/blog`](https://github.com/FriendsOfFlarum/blog)
 * [`fof/discussion-templates`](https://github.com/FriendsOfFlarum/discussion-templates)
 * [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings)
