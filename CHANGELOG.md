@@ -75,7 +75,7 @@ CHANGELOG
 * [`flarum/auth-github`](https://github.com/flarum/auth-github)
 * [`flarum/auth-twitter`](https://github.com/flarum/auth-twitter)
 * [`flarum/markdown`](https://github.com/flarum/markdown)
-* `glowingblue-localizd`
+* [`glowingblue/localizd`](https://github.com/glowingblue/flarum-ext-localizd)
 * [`nearata/flarum-ext-signup-confirm-password`](https://github.com/Nearata/flarum-ext-signup-confirm-password)
 * [`v17development/flarum-blog`](https://github.com/FriendsOfFlarum/blog)
 * [`v17development/flarum-seo`](https://github.com/FriendsOfFlarum/seo)
