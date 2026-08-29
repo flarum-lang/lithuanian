@@ -71,6 +71,7 @@ Also, don't forget to clear your browser cache with CTRL + F5
 | [`fof/blog`](https://github.com/FriendsOfFlarum/blog) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/lt/fof-blog/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-blog/lt/) |
 | [`fof/discussion-templates`](https://github.com/FriendsOfFlarum/discussion-templates) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/lt/fof-discussion-templates/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-discussion-templates/lt/) |
 | [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/lt/fof-moderator-warnings/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-moderator-warnings/lt/) |
+| [`glowingblue/author-filter`](https://github.com/glowingblue/flarum-ext-author-filter) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/lt/glowingblue-author-filter/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/glowingblue-author-filter/lt/) |
 | [`sycho/flarum-profile-cover`](https://github.com/SychO9/flarum-profile-cover) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/lt/sycho-profile-cover/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/sycho-profile-cover/lt/) |
 
 <!-- all-extensions-list-stop -->
