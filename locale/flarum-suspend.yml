@@ -7,9 +7,6 @@ flarum-suspend:
     permissions:
       suspend_users_label: 'Blokuoti narius'
   forum:
-    notifications:
-      user_suspended_text: '{username} užblokavo jus už {timeReadable}'
-      user_unsuspended_text: '{username} atblokavo jus'
     suspend_user:
       indefinitely_label: 'Užblokuotas neribotam laikui'
       limited_time_days_text: ' dienų'

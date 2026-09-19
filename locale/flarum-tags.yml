@@ -48,7 +48,7 @@ flarum-tags:
     choose_tags:
       bypass_requirements: 'Apeiti žymos reikalavimus'
       choose_primary_placeholder: '{count, plural, one {Choose a primary tag} other {Choose # primary tags}}'
-      choose_secondary_placeholder: '{count, plural, one {Pasirinkite dar 1 žymą} other {Pasirinkite dar # žymas}}'
+      choose_secondary_placeholder: '{count, plural, one {Pasirinkite dar # žymą} other {Pasirinkite dar # žymas}}'
       edit_title: 'Redaguoti žymes {title} temai'
       submit_button: '=> core.ref.okay'
       title: 'Pasirinkite etiketes jūsų temai'
