@@ -42,6 +42,9 @@ CHANGELOG
 
 * [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
 * [`flarum/likes`](https://github.com/flarum/likes)
+* [`flarum/pusher`](https://github.com/flarum/pusher)
+* [`flarum/suspend`](https://github.com/flarum/suspend)
+* [`flarum/tags`](https://github.com/flarum/tags)
 
 
 All changes: [1.1.5...1.1.6](https://github.com/flarum-lang/lithuanian/compare/1.1.5...1.1.6).
