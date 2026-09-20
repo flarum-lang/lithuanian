@@ -29,6 +29,7 @@ CHANGELOG
 * [`flarum/pusher`](https://github.com/flarum/pusher) (1 changed)
 * [`flarum/statistics`](https://github.com/flarum/statistics) (1 removed)
 * [`flarum/subscriptions`](https://github.com/flarum/subscriptions) (1 removed)
+* [`flarum/suspend`](https://github.com/flarum/suspend) (2 removed)
 * [`flarum/tags`](https://github.com/flarum/tags) (4 removed)
 
 
