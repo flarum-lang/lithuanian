@@ -13,24 +13,24 @@ CHANGELOG
 
 **Added support for new extensions**:
 
-* [`flarum/bbcode`](https://github.com/flarum/bbcode)
-* [`fof/blog`](https://github.com/FriendsOfFlarum/blog)
-* [`fof/discussion-templates`](https://github.com/FriendsOfFlarum/discussion-templates)
-* [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings)
-* [`glowingblue/author-filter`](https://github.com/glowingblue/flarum-ext-author-filter)
+* [`flarum/bbcode`](https://github.com/flarum/bbcode) (100% complete)
+* [`fof/blog`](https://github.com/FriendsOfFlarum/blog) (18% complete)
+* [`fof/discussion-templates`](https://github.com/FriendsOfFlarum/discussion-templates) (100% complete)
+* [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings) (73% complete)
+* [`glowingblue/author-filter`](https://github.com/glowingblue/flarum-ext-author-filter) (33% complete)
 
 
 **Updated translations for extensions**:
 
-* [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache) (1 removed)
-* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money) (2 added, 2 removed)
-* [`flarum/likes`](https://github.com/flarum/likes) (4 added, 2 changed)
-* [`flarum/mentions`](https://github.com/flarum/mentions) (2 removed)
-* [`flarum/pusher`](https://github.com/flarum/pusher) (1 changed)
-* [`flarum/statistics`](https://github.com/flarum/statistics) (1 removed)
-* [`flarum/subscriptions`](https://github.com/flarum/subscriptions) (1 removed)
-* [`flarum/suspend`](https://github.com/flarum/suspend) (2 removed)
-* [`flarum/tags`](https://github.com/flarum/tags) (4 removed)
+* [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache) (1 removed, 45% complete)
+* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money) (2 added, 2 removed, 54% complete)
+* [`flarum/likes`](https://github.com/flarum/likes) (4 added, 2 changed, 88% complete)
+* [`flarum/mentions`](https://github.com/flarum/mentions) (2 removed, 54% complete)
+* [`flarum/pusher`](https://github.com/flarum/pusher) (1 changed, 50% complete)
+* [`flarum/statistics`](https://github.com/flarum/statistics) (1 removed, 32% complete)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions) (1 removed, 79% complete)
+* [`flarum/suspend`](https://github.com/flarum/suspend) (2 removed, 33% complete)
+* [`flarum/tags`](https://github.com/flarum/tags) (4 removed, 69% complete)
 
 
 **Removed support for outdated extensions**:
