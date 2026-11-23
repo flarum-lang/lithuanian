@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+1.1.7 (2026-11-23)
+------------------
+
+**General changes**:
+
+* Updated Day.js translations.
+
+
+All changes: [1.1.6...1.1.7](https://github.com/flarum-lang/lithuanian/compare/1.1.6...1.1.7).
+
+
 1.1.6 (2026-09-30)
 ------------------
 
