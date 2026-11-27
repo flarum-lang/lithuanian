@@ -1,37 +1,34 @@
 {
-    "name": "flarum-lang/lithuanian",
-    "description": "Lithuanian language extension pack for Flarum.",
-    "type": "flarum-extension",
-    "keywords": ["extension", "flarum", "lithuanian", "locale", "translation"],
-    "license": "MIT",
-    "support": {
-        "issues": "https://github.com/flarum-lang/lithuanian/issues",
-        "source": "https://github.com/flarum-lang/lithuanian"
-    },
-    "require": {
-        "flarum/core": "^2.0"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-main": "1.x-dev"
-        },
-        "flarum-extension": {
-            "title": "Lithuanian",
-            "category": "language",
-            "info": {
-                "website": "https://github.com/flarum-lang/lithuanian",
-                "support": "https://github.com/flarum-lang/lithuanian/issues"
-            },
-            "icon": {
-                "image": "icon.svg",
-                "backgroundColor": "#00247d",
-                "backgroundSize": "cover",
-                "backgroundPosition": "center"
-            }
-        },
-        "flarum-locale": {
-            "code": "lt",
-            "title": "Lietuvių"
-        }
-    }
+	"name": "flarum-lang/lithuanian",
+	"description": "Lithuanian Language Pack for Flarum",
+	"type": "flarum-extension",
+	"keywords": [
+		"flarum-locale"
+	],
+	"homepage": "https://github.com/flarum-lang/lithuanian",
+	"license": "MIT",
+	"support": {
+		"issues": "https://github.com/flarum-lang/lithuanian/issues",
+		"forum": "https://discuss.flarum.org/d/30283",
+		"source": "https://github.com/flarum-lang/lithuanian"
+	},
+	"require": {
+		"flarum/core": "^2.0"
+	},
+	"extra": {
+		"flarum-extension": {
+			"title": "Lithuanian",
+			"category": "language",
+			"icon": {
+				"image": "icon.svg",
+				"backgroundColor": "#00247d",
+				"backgroundSize": "cover",
+				"backgroundPosition": "center"
+			}
+		},
+		"flarum-locale": {
+			"code": "lt",
+			"title": "Lietuvių"
+		}
+	}
 }
